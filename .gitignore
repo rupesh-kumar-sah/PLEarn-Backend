@@ -1,7 +1,7 @@
 dist/
 node_modules/
-.env
 *.log
 coverage/
 uploads/*
 !uploads/.gitkeep
+config.bat
